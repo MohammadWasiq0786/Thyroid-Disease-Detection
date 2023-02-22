@@ -21,6 +21,6 @@
 
 ### Screenshot
 
-*
-![Capture](https://user-images.githubusercontent.com/84202477/192757330-93833a1b-da83-4e22-ae46-17ad3f094fa1.PNG)
+![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)
 
+![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(122).png)
