@@ -1,9 +1,9 @@
 # [**Thyroid Disease Detection**](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection)
 
 
-## [**Heroku link**](https://thyroiddiseasedetect.herokuapp.com/)
+## [**Heroku Link**](https://thyroiddiseasedetect.herokuapp.com/)
 
-## [**AWS link**](http://ec2-35-78-175-118.ap-northeast-1.compute.amazonaws.com:8080/predict)
+## [**AWS Link**](http://ec2-35-78-175-118.ap-northeast-1.compute.amazonaws.com:8080/predict)
 
 
 ### Docker Image
