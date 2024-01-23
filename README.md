@@ -19,6 +19,12 @@
 ### Procfile
     web gunicorn app:app
 
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
+</video>
+
+
 ### Screenshot
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)
