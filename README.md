@@ -7,21 +7,21 @@
 
 
 ### Docker Image
-
-    FROM python:3.10
-    COPY . /app
-    WORKDIR /app
-    RUN pip install -r requirements.txt
-    EXPOSE $PORT
-    CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
-    
-    
+```
+FROM python:3.10
+COPY . /app
+WORKDIR /app
+RUN pip install -r requirements.txt
+EXPOSE $PORT
+CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
+```     
 ### Procfile
-    web gunicorn app:app
-
+```
+web gunicorn app:app
+```
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
+<source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4"> 
 </video>
 
 
