@@ -20,20 +20,13 @@ CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
 web gunicorn app:app
 ```
 
-<video autoplay loop muted playsinline>
-  <source src="my-animation.webm" type="video/webm">
-  <source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
-</video>
-
-
-https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png
-
-
-
-
-
 ### Screenshot
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(122).png)
+
+
+<video autoplay loop muted playsinline>
+<source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
+</video>
