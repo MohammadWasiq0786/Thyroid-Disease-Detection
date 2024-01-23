@@ -20,20 +20,16 @@ CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
 web gunicorn app:app
 ```
 
-[! [Watch the video] ()] ()
-
-<video src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" controls="controls" style="max-width: 730px;">
+<video autoplay loop muted playsinline>
+  <source src="my-animation.webm" type="video/webm">
+  <source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
 </video>
 
-[![Alt text](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4)
 
-<a href="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" target="_blank"><img src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png" 
-alt="Watch the video" width="240" height="180" border="10" /></a>
+https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png
 
 
-<video width="320" height="240" controls>
-<source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4"> 
-</video>
+
 
 
 ### Screenshot
