@@ -20,9 +20,9 @@ CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
 web gunicorn app:app
 ```
 
-[! [Watch the video] (https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)] ()
+[! [Watch the video] ()] ()
 
-<a href="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" target="_blank"><img src="video-player-image-url" 
+<a href="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" target="_blank"><img src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png" 
 alt="Watch the video" width="240" height="180" border="10" /></a>
 
 
