@@ -20,13 +20,11 @@ CMD gunicore --workers=4 --bind 0.0.0.0:$PORT aap:app
 web gunicorn app:app
 ```
 
+https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/assets/90026848/4a9c2b08-fcbb-4d27-ace4-a725bc58fc30
+
 ### Screenshot
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(122).png)
 
-
-<video autoplay loop muted playsinline>
-<source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" type="video/mp4">
-</video>
