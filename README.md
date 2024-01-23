@@ -22,6 +22,8 @@ web gunicorn app:app
 
 [! [Watch the video] ()] ()
 
+https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4
+
 <a href="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/TDD.mp4" target="_blank"><img src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png" 
 alt="Watch the video" width="240" height="180" border="10" /></a>
 
