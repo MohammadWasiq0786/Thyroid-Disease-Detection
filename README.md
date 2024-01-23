@@ -22,11 +22,6 @@ web gunicorn app:app
 
 https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/assets/90026848/4a9c2b08-fcbb-4d27-ace4-a725bc58fc30
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/assets/90026848/4a9c2b08-fcbb-4d27-ace4-a725bc58fc30" type="video/mp4">
-</video>
-
-
 ### Screenshot
 
 ![Capture](https://github.com/MohammadWasiq0786/Thyroid-Disease-Detection/blob/main/static/IMAGE/Screenshot%20(121).png)
